@@ -44,7 +44,7 @@ const Intro = () => {
               <div className="i-title-item">Frontend Developer</div>
             </div>
           </div>
-          <p className="i-desc">I design and develope responsive applications using React and JavaScript. I specialize in building and developing full stack applicaitons.</p>
+          <p className="i-desc">I design and develop responsive applications using React and JavaScript. I specialize in building and developing full stack applications.</p>
         </div>
       </div>
       <div className="i-right">
